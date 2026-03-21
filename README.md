@@ -172,6 +172,52 @@ Mirrors **hippocampus + neocortex** architecture.
 
 ---
 
+## Cryptography & Encryption
+
+Every layer of the platform uses purpose-built cryptographic primitives:
+
+### Memory Encryption (At Rest)
+
+| Algorithm | Where | What it protects |
+|---|---|---|
+| **AES-256-GCM** (AEAD) | `memory_encryption.py` | Memory content, anchor text, optionally embeddings. 96-bit random nonce per operation, 128-bit authentication tag, PBKDF2-SHA256 key derivation (100,000 iterations, OWASP minimum). Format: `ENC2:{base64(nonce + ciphertext + tag)}` |
+| **AES-256-CBC** | `encrypted_payload.py` (Blockchain) | Node payloads — user data (Layer 2) and agent state (Layer 3). Key derivation from wallet keys, IV-based initialization |
+
+### Hashing (Content Integrity)
+
+| Algorithm | Where | Purpose |
+|---|---|---|
+| **SHA-256** | `resonance_hashing.py` | Universe ID generation (256-bit content fingerprint), meaning hash, energy hash, spin hash — the entire Hash Sphere coordinate system derives from SHA-256 |
+| **SHA-256** | `memory_deduplication.py` | Exact duplicate detection via normalized content hash comparison |
+| **SHA-256** | `semantic_cache.py` + `embedding_cache.py` | Cache key generation from query text (truncated to 16/32 chars) |
+| **SHA-256** | `domain_hasher.py` (Blockchain) | Domain-specific hashing for blockchain operations |
+
+### Identity & Signing
+
+| Algorithm | Where | Purpose |
+|---|---|---|
+| **Ed25519** (PyNaCl) | `dsid.py` (Blockchain) | DSID-P identity signing and verification — every agent, user, and service gets a cryptographic keypair. 32-byte private key, 64-byte signatures |
+| **Ed25519** | `RG_Internal_Invarients_SIM` | Cryptographic execution receipts with failure detection — RARA signs every governance decision |
+| **Fernet** (AES-128-CBC + HMAC-SHA256) | `RG_Auth/crypto.py` | BYOK API key encryption at rest. Key rotation support. Derived from `BYOK_ENCRYPTION_KEY` or `JWT_SECRET_KEY` via SHA-256 |
+
+### Zero-Knowledge Proofs
+
+| Primitive | Where | Purpose |
+|---|---|---|
+| **Pedersen Commitments** | `zero_knowledge.py` | `C = g^v * h^r` — commit to values without revealing them. Used for private transactions |
+| **ZK-SNARK Proofs** | `zero_knowledge.py` | Knowledge proofs, range proofs, membership proofs, equality proofs, balance proofs — prove facts about data without exposing the underlying data |
+| **Nullifiers** | `zero_knowledge.py` | Double-spend prevention for private transactions |
+
+### Key Management
+
+- **90-day key rotation** for memory encryption keys
+- **PBKDF2-SHA256** (100k iterations) for deriving AES keys from passphrases
+- **Dual-key resolution** for BYOK: user key → platform key fallback
+- **Redis-backed OAuth state** with 10-minute expiry (CSRF protection)
+- **Ephemeral key generation** with `secrets.token_bytes(32)` for dev environments
+
+---
+
 ## Unified Tool Registry (136 Tools)
 
 All tools defined in canonical `ToolDef` format with per-tool observability, access control, and automatic OpenAI/Anthropic format conversion.
