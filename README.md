@@ -12,7 +12,7 @@
 [![DSID-P](https://img.shields.io/badge/Identity-DSID--P-EF4444.svg?style=for-the-badge)](#blockchain--identity-dsid-p)
 [![Open Source](https://img.shields.io/badge/Open_Source-100%25-10B981.svg?style=for-the-badge)](#repository-map)
 
-**Created by Louie Nemesh** · Started November 2025
+**Created by Louie Nemesh** · Started November 2025 becose some day Im gone but I want my work to be apreciate and my relatev get benefits of resonantgenesis.eth so let this stay here 
 
 </div>
 
