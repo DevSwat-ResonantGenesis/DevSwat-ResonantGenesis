@@ -19,13 +19,13 @@
 [Support via Stripe](https://buy.stripe.com/eVq8wO8sA1gN3OV2AJ33W0e)
 
 **Direct Donations:**
-- **PayPal**: [@liubovNemesh](https://paypal.me/liubovNemesh)
+ **PayPal**: [@liubovNemesh](https://paypal.me/liubovNemesh)
 
 **Cryptocurrency Contributions:**
-- **Ethereum (ETH)**: `0x6c4e36B141Cad8249ffD2749E912f99BAA3a68Bc`
-- **Bitcoin (BTC)**: `bc1qa53hly5gul6a5253hhdy6tyyr8uv9t29q6u9nh`
-- **Solana (SOL)**: `9hQ7dWYczTEwhBG22dQdkib2sKPJ4j8hzV1AoQPK9kCg`
-- **TON**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
+ **Ethereum (ETH)**: `0x6c4e36B141Cad8249ffD2749E912f99BAA3a68Bc`
+ **Bitcoin (BTC)**: `bc1qa53hly5gul6a5253hhdy6tyyr8uv9t29q6u9nh`
+ **Solana (SOL)**: `9hQ7dWYczTEwhBG22dQdkib2sKPJ4j8hzV1AoQPK9kCg`
+ **TON**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
 
 ---
 
