@@ -31,10 +31,11 @@
 <div align="center">
   <br/>
   <a href="https://www.youtube.com/watch?v=0cyzNC5fzJU" target="_blank">
-    <img src="https://youtube.com" width="480" alt="DevSwat Video Pitch" style="border-radius: 6px; border: 1px solid #30363d;">
+    <img src="PASTE_YOUR_GENERATED_GITHUB_IMAGE_LINK_HERE" width="440" height="248" alt="DevSwat Video Pitch">
   </a>
   <br/>
 </div>
+
 
 
 # 🏗️ Louie Nemesh
