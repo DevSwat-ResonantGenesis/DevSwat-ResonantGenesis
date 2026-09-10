@@ -28,16 +28,14 @@
  **TON**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
 
 ---
-<div align="center">
-  <h3>🚀 Introducing </h3>
-  <p>AI infrastructure transforming ideas into reality autonomously.</p>
-  
-  <a href="https://youtu.be/0cyzNC5fzJU">
-   
+<<div align="center">
+  <h2>DevSwat - ResonantGenesis</h2>
+  <p>By Louie Nemesh</p>
+  <a href="https://youtu.be">
+    <img src="https://youtube.com" alt="Watch DevSwat ResonantGenesis" width="650px" style="border-radius: 10px;">
   </a>
-  
-  <p><i>Click above to watch the Dev Swap overview video.</i></p>
 </div>
+
 
 
 # 🏗️ Louie Nemesh
