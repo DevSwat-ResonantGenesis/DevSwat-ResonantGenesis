@@ -28,15 +28,7 @@
  **TON**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
 
 ---
-<<div align="center">
-  <h2>DevSwat - ResonantGenesis</h2>
-  <p>By Louie Nemesh</p>
-  <a href="https://youtu.be">
-    <img src="https://youtube.com" alt="Watch DevSwat ResonantGenesis" width="650px" style="border-radius: 10px;">
-  </a>
-</div>
-
-
+https://www.youtube.com/watch?v=0cyzNC5fzJU 
 
 # 🏗️ Louie Nemesh
 ### AI System Architect & Full-Stack Developer | Solo Founder @ ResonantGenesis
