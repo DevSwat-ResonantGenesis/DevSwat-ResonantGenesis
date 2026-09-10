@@ -28,7 +28,14 @@
  **TON**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
 
 ---
-https://www.youtube.com/watch?v=0cyzNC5fzJU 
+<div align="center">
+  <br/>
+  <a href="https://www.youtube.com/watch?v=0cyzNC5fzJU" target="_blank">
+    <img src="https://youtube.com" width="480" alt="DevSwat Video Pitch" style="border-radius: 6px; border: 1px solid #30363d;">
+  </a>
+  <br/>
+</div>
+
 
 # 🏗️ Louie Nemesh
 ### AI System Architect & Full-Stack Developer | Solo Founder @ ResonantGenesis
