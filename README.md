@@ -31,7 +31,8 @@
 <div align="center">
   <br/>
   <a href="https://www.youtube.com/watch?v=0cyzNC5fzJU" target="_blank">
-    <img src="PASTE_YOUR_GENERATED_GITHUB_IMAGE_LINK_HERE" width="440" height="248" alt="DevSwat Video Pitch">
+    <img src="<img width="1009" height="562" alt="Screenshot 2026-09-09 at 6 14 58 PM" src="https://github.com/user-attachments/assets/a1256755-a656-469c-b6bf-8a41c5469262" />
+" width="440" height="248" alt="DevSwat Video Pitch">
   </a>
   <br/>
 </div>
