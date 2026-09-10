@@ -4,6 +4,40 @@
 
 ### Enterprise-Grade Governed AI Agent Ecosystem
 
+🚨 URGENT NOTICE: SERVER SHUTDOWN DUE TO FUNDING SHORTAGE
+
+⚠️ CURRENT STATUS: PRODUCTION SERVER REMOVED FROM DIGITALOCEAN
+
+The ResonantGenesis production server hosting 182 active users has been shut down due to lack of funding. This was a desperate decision to make the project fully open source and seek financial support to continue development and maintenance.
+
+Your support can bring ResonantGenesis back online and help continue this ambitious project.
+
+🏗️ Louie Nemesh
+
+AI System Architect & Full-Stack Developer | Solo Founder @ ResonantGenesis
+
+Profile Views Projects Experience Status
+
+👤 About Me
+
+I am Louie Nemesh, an AI System Architect and Full-Stack Developer with over 6 years of experience in the IT industry since 2018. I specialize in building sophisticated AI-powered platforms and managing international development teams.
+
+🎯 Professional Journey
+
+2018 - 2024: Founder & CEO of Web Development Agency (Qatar)
+
+Managed hundreds of diverse projects for clients worldwide
+Led full-stack international development teams
+Delivered end-to-end solutions from concept to deployment
+Specialized in scalable web applications and enterprise systems
+2025 - Present: Solo Founder @ ResonantGenesis
+
+Built a complete self-hosted AI agent and developer tools platform
+Designed and implemented sophisticated multi-service architecture
+Developed advanced AI orchestration and execution systems
+Currently seeking investment and B2B partnerships
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Services](https://img.shields.io/badge/Docker_Services-35-8B5CF6.svg?style=for-the-badge)](#platform-architecture)
 [![Repos](https://img.shields.io/badge/Repositories-40-6366F1.svg?style=for-the-badge)](#repository-map)
