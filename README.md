@@ -28,6 +28,17 @@
  **TON**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
 
 ---
+<div align="center">
+  <h3>🚀 Introducing Dev Swap</h3>
+  <p>AI infrastructure transforming ideas into reality autonomously.</p>
+  
+  <a href="https://youtu.be/0cyzNC5fzJU">
+    <img src="https://youtube.com" alt="Watch Dev Swap Presentation" width="600px" style="border-radius: 8px;">
+  </a>
+  
+  <p><i>Click above to watch the Dev Swap overview video.</i></p>
+</div>
+
 
 # 🏗️ Louie Nemesh
 ### AI System Architect & Full-Stack Developer | Solo Founder @ ResonantGenesis
