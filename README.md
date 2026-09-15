@@ -86,7 +86,20 @@ Agentic Chat operate inter platform and all services in the adjustable spleet ch
 <img width="1318" height="798" alt="Screenshot 2026-09-15 at 5 25 54 AM" src="https://github.com/user-attachments/assets/209fb696-17ce-4a9b-aabe-e590982d1b86" />
 
 * **Dual Memory Engine**: Combines 3D meaning-based **Hash Sphere** spatial memory with linear fallback Retrieval-Augmented Generation (RAG).
+
+---
+Memory Visualization Panel 
+<img width="864" height="735" alt="Screenshot 2026-09-15 at 5 34 03 AM" src="https://github.com/user-attachments/assets/1d84eacf-d1ff-47ac-af97-1b591127f2b4" />
+<img width="856" height="711" alt="Screenshot 2026-09-15 at 5 33 49 AM" src="https://github.com/user-attachments/assets/4a70315c-42d1-43d6-b6e5-6e2f9cde165b" />
+<img width="859" height="721" alt="Screenshot 2026-09-15 at 5 32 55 AM" src="https://github.com/user-attachments/assets/1a442b9a-ceb0-4319-85e3-839a95430226" />
+
 * **Agentic Coding Tools**: Dedicated IDE Desktop Application (VS Code fork) featuring a server-side agentic coding loop and **75 local IDE tools — these are separate counts**.
+<img width="1021" height="652" alt="Screenshot 2026-09-15 at 6 21 05 AM" src="https://github.com/user-attachments/assets/7ba23186-329d-4d89-bc0d-13e9ee540ba8" />
+<img width="1091" height="668" alt="Screenshot 2026-09-15 at 6 20 37 AM" src="https://github.com/user-attachments/assets/94b80e23-6dfc-4d84-9c4c-dd45f163ee53" />
+<img width="1099" height="416" alt="Screenshot 2026-09-15 at 6 19 56 AM" src="https://github.com/user-attachments/assets/aaeac84a-4948-4593-8496-41444cda05e3" />
+<img width="1026" height="651" alt="Screenshot 2026-09-15 at 6 19 36 AM" src="https://github.com/user-attachments/assets/f1e921e1-26cd-4f61-ad9a-f1e8c4dc92df" />
+<img width="1019" height="644" alt="Screenshot 2026-09-15 at 6 18 55 AM" src="https://github.com/user-attachments/assets/b6a9e7d8-19d2-4f8c-87aa-61e8226856bb" />
+
 * **Autonomous App Builder**: Integrated application builder with pre-configured tech stacks and automated code compilation pipelines.
 * **Code Intelligence & AST/SAST Analysis**: Real-time static AST/SAST parsing, code visualizer, dependency tracking, and architecture drift detection. [Watch Video](https://www.youtube.com/watch?v=NVsParsD6TQ)
 
