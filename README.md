@@ -39,7 +39,7 @@
 
 ## 🏗️ Platform Architecture
 
-```
+
 ```
                 ┌──────────────────────────────────────┐
                 │        RESONANT IDE (Desktop)        │
