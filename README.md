@@ -28,6 +28,20 @@
 
 ### Key Architectural Pillars:
 * **Agentic Chat & Intelligent Routing**: Autonomous neural classifier directing traffic across **165 platform-side tools/skils** with a multi-LLM provider neural fallback chain.
+
+---
+<img width="439" height="832" alt="Screenshot 2026-07-23 at 7 03 12 AM" src="https://github.com/user-attachments/assets/208f1ba9-5bf1-4010-b775-5d11c6b45af4" />
+<img width="445" height="829" alt="Screenshot 2026-07-23 at 7 03 02 AM" src="https://github.com/user-attachments/assets/744f7e24-3bec-4d50-ae7e-f6a57bdb1d45" />
+<img width="483" height="829" alt="Screenshot 2026-07-23 at 7 02 54 AM" src="https://github.com/user-attachments/assets/eafe0d90-468e-4cea-a1b6-ba4dad7c8b89" />
+<img width="1247" height="557" alt="Screenshot 2026-07-23 at 7 02 40 AM" src="https://github.com/user-attachments/assets/6113add9-9fe2-4fdf-9b7e-a3c4ca341c17" />
+<img width="1287" height="547" alt="Screenshot 2026-07-23 at 7 02 29 AM" src="https://github.com/user-attachments/assets/16e827f3-e62f-464f-a998-c2888e835c48" />
+<img width="1056" height="645" alt="Screenshot 2026-07-23 at 7 02 16 AM" src="https://github.com/user-attachments/assets/cabdbd42-f22f-42bb-bc84-b73d07c55f38" />
+<img width="1127" height="589" alt="Screenshot 2026-07-23 at 7 01 52 AM" src="https://github.com/user-attachments/assets/825349ba-3a04-4345-8950-b03a2083e5f0" />
+<img width="936" height="536" alt="Screenshot 2026-07-23 at 7 01 19 AM" src="https://github.com/user-attachments/assets/61c4b4c5-d087-4a9a-b012-2b89e69e5178" />
+<img width="1226" height="401" alt="Screenshot 2026-07-23 at 7 01 05 AM" src="https://github.com/user-attachments/assets/3bea90e9-38ff-4f2d-a749-008db2e3550e" />
+<img width="1470" height="146" alt="Screenshot 2026-07-23 at 7 00 54 AM" src="https://github.com/user-attachments/assets/047bc1a8-9311-4667-8abc-001ead065cd1" />
+<img width="1470" height="833" alt="Screenshot 2026-07-23 at 7 00 35 AM" src="https://github.com/user-attachments/assets/f0fedabf-d5f0-4be4-b819-e337d35d9bd8" />
+
 * **Dual Memory Engine**: Combines 3D meaning-based **Hash Sphere** spatial memory with linear fallback Retrieval-Augmented Generation (RAG).
 * **Agentic Coding Tools**: Dedicated IDE Desktop Application (VS Code fork) featuring a server-side agentic coding loop and **75 local IDE tools — these are separate counts**.
 * **Autonomous App Builder**: Integrated application builder with pre-configured tech stacks and automated code compilation pipelines.
