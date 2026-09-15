@@ -328,12 +328,6 @@ I am an **AI System Architect** specializing in microservice container orchestra
 
 ResonantGenesis was built through thousands of hours of solo engineering. Since production servers are currently offline due to funding constraints, community contributions and financial support directly enable further development, protocol maintenance, and potential server re-launch.
 
-### 🚀 Ways to Support
-
-* **Direct PayPal Contribution**: [paypal.me/liubovNemesh](https://paypal.me/liubovNemesh?utm_source=gemini)
-
-### 🪙 Cryptocurrency Wallets
-
 
 * **ENS Domain**: `resonantgenesis.eth`
 
