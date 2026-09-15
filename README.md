@@ -329,7 +329,7 @@ I am an **AI System Architect** specializing in microservice container orchestra
 ResonantGenesis was built through thousands of hours of solo engineering. Since production servers are currently offline due to funding constraints, community contributions and financial support directly enable further development, protocol maintenance, and potential server re-launch.
 
 
-* **ENS Domain**: `resonantgenesis.eth`
+* **Send to ENS Domain**: `resonantgenesis.eth`
 
 ### 🌐 Contact & Media
 
