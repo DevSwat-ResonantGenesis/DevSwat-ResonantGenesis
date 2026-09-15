@@ -32,6 +32,17 @@
 * **Agentic Coding Tools**: Dedicated IDE Desktop Application (VS Code fork) featuring a server-side agentic coding loop and **75 local IDE tools — these are separate counts**.
 * **Autonomous App Builder**: Integrated application builder with pre-configured tech stacks and automated code compilation pipelines.
 * **Code Intelligence & AST/SAST Analysis**: Real-time static AST/SAST parsing, code visualizer, dependency tracking, and architecture drift detection.
+<img width="2199" height="1246" alt="d35fe553-26e9-4681-ab83-86ea5cacf2b7" src="https://github.com/user-attachments/assets/778dbe08-c80a-4793-ade4-4ce11979d2f4" />
+<img width="2200" height="1243" alt="fee801a4-fee1-46b8-9daf-0f045e958750" src="https://github.com/user-attachments/assets/d75e0070-c423-465e-a061-026d7ddc1107" />
+<img width="2200" height="1251" alt="86db68af-7a35-4767-a5b3-e984db03d1ad" src="https://github.com/user-attachments/assets/f7dfb13d-bf66-4af9-b43c-d698dc774210" />
+<img width="2200" height="1246" alt="5b0a0069-b578-4df8-96db-f8fdbd2c2bf9" src="https://github.com/user-attachments/assets/f4b4abb2-8e63-40d7-9755-0fbf3ac1459f" />
+
+Proven that LLM models are more effective when using the code analyzer than traditional file tree reading samples; the most token-consuming context window operations are now handled by static, non-AI-powered analysis.
+
+<img width="1502" height="1280" alt="6a327034-e436-4873-b072-964de4480335" src="https://github.com/user-attachments/assets/96b36d44-794c-492d-8e26-605e6e8d32ac" />
+<img width="1486" height="1280" alt="c7a8357c-632c-4228-aba5-2741e1783dde" src="https://github.com/user-attachments/assets/86146885-6dcb-4988-8230-9c479ba48e4d" />
+
+
 * **Multi-Tenant Governance & Billing**: Rule-based multi-tenant isolation, automated credit-deduction economic engine, and native Stripe payment integration.
 * **Complete UI/UX & Data Sovereignty**: Full frontend dashboard providing an end-to-end user experience with 100% data control and zero third-party platform lock-in.
 
