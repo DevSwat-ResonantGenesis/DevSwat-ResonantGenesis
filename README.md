@@ -4,7 +4,7 @@
 
 > **The ResonantGenesis production server hosting 182 active users has been shut down due to a lack of funding.**
 > 
-> To ensure this work remains available to the community, **ResonantGenesis is now 100% Open Source**. The entire framework is fully accessible as a self-hosted, modular agent framework—deployable either as independent microservices or as a complete enterprise agent platform.
+> To ensure this work remains available to the community, **ResonantGenesis is now 100% Open Source**. The entire framework is fully accessible as a self-hosted, modular agent framework—deployable either as independent microservices or as a complete enterprise agent platform. You can go through each repo and find all screenshots and information related to each future and services or visit my Youtub Chanel.
 
 [Contact for Investment](mailto:louie.nemesh.usa@gmail.com) | [Contact for Business](mailto:louie@dev-swat.com) | [Support via Stripe](https://buy.stripe.com/eVq8wO8sA1gN3OV2AJ33W0e)
 
@@ -27,9 +27,9 @@
 **ResonantGenesis** is an enterprise-grade AI Agent framework and full-stack AI infrastructure platform designed for complete self-hosted security, total privacy, and complete operational control. It provides an out-of-the-box private cloud solution across **35 Docker microservices** and **40 repositories**—allowing enterprises to plug in external LLM API keys and instantly deploy an end-to-end, fully sovereign AI architecture.
 
 ### Key Architectural Pillars:
-* **Agentic Chat & Intelligent Routing**: Autonomous neural classifier directing traffic across **165 tools and skills** with a multi-LLM provider neural fallback chain.
+* **Agentic Chat & Intelligent Routing**: Autonomous neural classifier directing traffic across **165 platform-side tools/skils** with a multi-LLM provider neural fallback chain.
 * **Dual Memory Engine**: Combines 3D meaning-based **Hash Sphere** spatial memory with linear fallback Retrieval-Augmented Generation (RAG).
-* **Agentic Coding Tools**: Dedicated IDE Desktop Application (VS Code fork) featuring a server-side agentic coding loop and **75 local developer tools**.
+* **Agentic Coding Tools**: Dedicated IDE Desktop Application (VS Code fork) featuring a server-side agentic coding loop and **75 local IDE tools — these are separate counts**.
 * **Autonomous App Builder**: Integrated application builder with pre-configured tech stacks and automated code compilation pipelines.
 * **Code Intelligence & AST/SAST Analysis**: Real-time static AST/SAST parsing, code visualizer, dependency tracking, and architecture drift detection.
 * **Multi-Tenant Governance & Billing**: Rule-based multi-tenant isolation, automated credit-deduction economic engine, and native Stripe payment integration.
@@ -330,15 +330,11 @@ ResonantGenesis was built through thousands of hours of solo engineering. Since 
 
 ### 🚀 Ways to Support
 
-* **Monthly Recurring Support**: [Support via Stripe ($9.99/mo)](https://buy.stripe.com/eVq8wO8sA1gN3OV2AJ33W0e?utm_source=gemini)
 * **Direct PayPal Contribution**: [paypal.me/liubovNemesh](https://paypal.me/liubovNemesh?utm_source=gemini)
 
 ### 🪙 Cryptocurrency Wallets
 
-* **Ethereum (ETH)**: `0x6c4e36B141Cad8249ffD2749E912f99BAA3a68Bc`
-* **Bitcoin (BTC)**: `bc1qa53hly5gul6a5253hhdy6tyyr8uv9t29q6u9nh`
-* **Solana (SOL)**: `9hQ7dWYczTEwhBG22dQdkib2sKPJ4j8hzV1AoQPK9kCg`
-* **TON Network**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
+
 * **ENS Domain**: `resonantgenesis.eth`
 
 ### 🌐 Contact & Media
