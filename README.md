@@ -93,6 +93,13 @@ Agentic chat Split View terminal sandboxed with pre installed Claude Code so u c
 
 ---
 
+* **Agent Management & configuration.
+
+___
+
+<img width="1317" height="752" alt="Screenshot 2026-09-15 at 5 28 22 AM" src="https://github.com/user-attachments/assets/b54fb490-75b5-4fbf-9c2c-d93c64b92a51" />
+
+
 * **Dual Memory Engine**: Combines 3D meaning-based **Hash Sphere** spatial memory with linear fallback Retrieval-Augmented Generation (RAG).
 
 ---
