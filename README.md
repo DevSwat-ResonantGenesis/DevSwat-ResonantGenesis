@@ -6,7 +6,7 @@
 > 
 > To ensure this work remains available to the community, **ResonantGenesis is now 100% Open Source**. The entire framework is fully accessible as a self-hosted, modular agent framework—deployable either as independent microservices or as a complete enterprise agent platform. You can go through each repo and find all screenshots and information related to each future and services or visit my YouTube Chanel.
 
-[Contact for Investment](mailto:louie.nemesh.usa@gmail.com) | [Contact for Business](mailto:louie@dev-swat.com) | [Support via Stripe](https://buy.stripe.com/eVq8wO8sA1gN3OV2AJ33W0e)
+[Contact for Investment](mailto:louie.nemesh.usa@gmail.com) | [Contact for Business](mailto:louie@dev-swat.com) | 
 
 ---
 
