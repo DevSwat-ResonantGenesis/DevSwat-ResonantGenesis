@@ -61,12 +61,29 @@ Agentic Chat input tool bar tools: TTS Text to speak with voice selectors, STT S
 
 ---
 
-
+Drop Down Laptop Menu in Light Theme 
 <img width="1470" height="146" alt="Screenshot 2026-07-23 at 7 00 54 AM" src="https://github.com/user-attachments/assets/047bc1a8-9311-4667-8abc-001ead065cd1" />
+
+---
+
+Hover Chat Imput Tool Bar for the esthetic and minimalism user experience which every one deserves )
 <img width="1470" height="833" alt="Screenshot 2026-07-23 at 7 00 35 AM" src="https://github.com/user-attachments/assets/f0fedabf-d5f0-4be4-b819-e337d35d9bd8" />
+
+---
+
+Agentic Chat Setting Pop Up 
 <img width="439" height="832" alt="Screenshot 2026-07-23 at 7 03 12 AM" src="https://github.com/user-attachments/assets/208f1ba9-5bf1-4010-b775-5d11c6b45af4" />
 <img width="445" height="829" alt="Screenshot 2026-07-23 at 7 03 02 AM" src="https://github.com/user-attachments/assets/744f7e24-3bec-4d50-ae7e-f6a57bdb1d45" />
 <img width="483" height="829" alt="Screenshot 2026-07-23 at 7 02 54 AM" src="https://github.com/user-attachments/assets/eafe0d90-468e-4cea-a1b6-ba4dad7c8b89" />
+
+---
+
+Agentic Chat operate inter platform and all services in the adjustable spleet chat interactabl view , for damp and lazy people chat can do everything autonomously even navigate create set app and so on alll agents and its has acccves to all platform API's to be able work operate on behalf of user... ps I need coffe 
+<img width="1316" height="826" alt="Screenshot 2026-09-15 at 5 32 01 AM" src="https://github.com/user-attachments/assets/e338e275-447c-4b3e-88ce-bf05a0fb7f3f" />
+<img width="1327" height="831" alt="Screenshot 2026-09-15 at 5 29 52 AM" src="https://github.com/user-attachments/assets/b9af5fac-6c98-40ab-b5e1-10db13f73862" />
+<img width="1323" height="834" alt="Screenshot 2026-09-15 at 5 29 21 AM" src="https://github.com/user-attachments/assets/ad63020b-a822-44e3-bcbe-b422e79b5f7b" />
+<img width="1317" height="752" alt="Screenshot 2026-09-15 at 5 28 22 AM" src="https://github.com/user-attachments/assets/d129aeb3-b521-48db-a7cd-2220cfd1ecaa" />
+<img width="1318" height="798" alt="Screenshot 2026-09-15 at 5 25 54 AM" src="https://github.com/user-attachments/assets/209fb696-17ce-4a9b-aabe-e590982d1b86" />
 
 * **Dual Memory Engine**: Combines 3D meaning-based **Hash Sphere** spatial memory with linear fallback Retrieval-Augmented Generation (RAG).
 * **Agentic Coding Tools**: Dedicated IDE Desktop Application (VS Code fork) featuring a server-side agentic coding loop and **75 local IDE tools — these are separate counts**.
