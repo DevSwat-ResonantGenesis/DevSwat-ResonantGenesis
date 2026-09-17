@@ -1,10 +1,6 @@
 <div align="center">
 
-# 🚨 NOTICE: PRODUCTION SERVER SHUTDOWN & OPEN SOURCE ANNOUNCEMENT
-
-> **The ResonantGenesis production server hosting 182 active users has been shut down due to a lack of funding.**
-> 
-> To ensure this work remains available to the community, **ResonantGenesis is now 100% Open Source**. The entire framework is fully accessible as a self-hosted, modular agent framework—deployable either as independent microservices or as a complete enterprise agent platform. You can go through each repo and find all screenshots and information related to each future and services or visit my [YouTube Chanel](https://www.youtube.com/@tEACHqAAorange) | [Product Hunt](https://www.producthunt.com/products/resonantgenesis)
+**ResonantGenesis is now 100% Open Source**. The entire framework is fully accessible as a self-hosted, modular agent framework—deployable either as independent microservices or as a complete enterprise agent platform. You can go through each repo and find all screenshots and information related to each future and services or visit my [YouTube Chanel](https://www.youtube.com/@tEACHqAAorange) | [Product Hunt](https://www.producthunt.com/products/resonantgenesis)
 
 [Contact for Investment](mailto:louie.nemesh.usa@gmail.com) | [Contact for Business](mailto:louie@dev-swat.com) | 
 
